@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\seodo\\Desktop\\code\\git\\4th-assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42C6EBF3-295B-437A-9E20-4A9F727CDFBD}|4th-assignment\\4th-assignment.vcxproj|C:\\Users\\seodo\\Desktop\\code\\git\\4th-assignment\\4th-assignment\\AlchemyWorkshop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{42C6EBF3-295B-437A-9E20-4A9F727CDFBD}|4th-assignment\\4th-assignment.vcxproj|solutionrelative:4th-assignment\\AlchemyWorkshop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlchemyWorkshop.cpp",
+              "DocumentMoniker": "C:\\Users\\seodo\\Desktop\\code\\git\\4th-assignment\\4th-assignment\\AlchemyWorkshop.cpp",
+              "RelativeDocumentMoniker": "4th-assignment\\AlchemyWorkshop.cpp",
+              "ToolTip": "C:\\Users\\seodo\\Desktop\\code\\git\\4th-assignment\\4th-assignment\\AlchemyWorkshop.cpp",
+              "RelativeToolTip": "4th-assignment\\AlchemyWorkshop.cpp",
+              "ViewState": "AgIAAIoAAAAAAAAAAADgv6UAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-26T05:10:59.705Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
