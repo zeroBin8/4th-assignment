@@ -54,11 +54,11 @@ public:
     //물약 이름으로 찾기
     PotionRecipe searchRecipeByName(const std::string& name)
     {
-        for (size_t i = 0; i < recipes.size(); i++)
+        for (auto& recipe : recipes)
         {
-            if (recipes[i].potionName == name)
+            if (recipe.potionName == name)
             {
-                return recipes[i];
+                return recipe;
             }
         }
     }
